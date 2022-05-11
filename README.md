@@ -140,8 +140,6 @@ There is no additional **stopping criteria** only genetic algorithm will stop wh
 
 # Requirements
 
-I don’t know how to correctly fill this block. I’ve just installed pretty_midi library.
-
 ```python
 pip install pretty_midi
 ```
